@@ -213,6 +213,7 @@
 /bundles/org.openhab.binding.mybmw/ @weymann @ntruchsess
 /bundles/org.openhab.binding.myq/ @digitaldan
 /bundles/org.openhab.binding.mystrom/ @pail23
+/bundles/org.openhab.binding.myuplink/ @mars3142
 /bundles/org.openhab.binding.nanoleaf/ @raepple @stefan-hoehn
 /bundles/org.openhab.binding.neato/ @jjlauterbach
 /bundles/org.openhab.binding.neeo/ @tmrobert8
